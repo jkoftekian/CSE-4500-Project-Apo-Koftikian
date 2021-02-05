@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang=''>
+<head>
+   <meta charset='utf-8'>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="styles.css">
+   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="script.js"></script>
+   <title>Apo Koftikian</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+
+</head>
+
+<style>
+	body {
+    background-color: #808080
+	}
+	</style>
+
+<body>
+
+<h1>My Music</h1>
+
+<br>
+<h2>College Platformer</h2>
+<p><b>Background theme for school themed platformer (Club Project)</b></p>
+<p>This was used for an intro stage to the game, where players are working their way through different elements of the game.</p>
+<br>
+<audio controls>
+  <source src="Community College Platformer theme(ogg).ogg" type="audio/ogg">
+  <source src="Community College Platformer theme.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<br>
+<p><b>Boss theme for school themed platformer (Club Project)</b></p>
+<p>When the players reach the first boss,they are greeted by Tracy in a giant mech suit.<br> Mecha Tracy (named after our club advisor and favorite professor) is meant to make players fear their impending doom.</p>
+<br>
+<audio controls>
+  <source src="Mecha Tracy theme(ogg).ogg" type="audio/ogg">
+  <source src="Mecha Tracy theme.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<br>
+<h2>Dungeon Crawler</h2>
+<p><b>Theme for Dungeon Crawler (Club Project)</b></p>
+<p>This background theme was designed to keep constant pace for the player as they adventure. </p>
+<br>
+<audio controls>
+  <source src="Dungeon 2019(ogg).ogg" type="audio/ogg">
+  <source src="Dungeon 2019.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+<p><b>Battle Theme for Dungeon Crawler (Club Project)</b></p>
+<p>As the players adventure in the dungeon, they confront enemies and the battle theme begins!</p>
+<br>
+<audio controls>
+  <source src="Dungeon 2019 - Battle full(ogg).ogg" type="audio/ogg">
+  <source src="Dungeon 2019 - Battle full.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<br>
+<h2>Hero Quest</h2>
+<p><b>Theme for Hero Quest (Class Assignment)</b></p>
+<p>This medieval fantasy game had players face enemy soldiers and fantasy monsters in turn based combat.</p>
+<br>
+<audio controls>
+  <source src="Hero Quest Theme(ogg).ogg" type="audio/ogg">
+  <source src="Hero Quest Theme.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<br>
+<h2>First Game Fortune</h2>
+<p><b>Theme for First Game Fortune (Class Assignment)</b></p>
+<p>In this fun filled platformer, players must go through each stage,<br> collecting coins and fortunes while dodging/jumping on enemies until they complete each stage!</p>
+<br>
+<audio controls>
+  <source src="First Game Fortune(ogg).ogg" type="audio/ogg">
+  <source src="First Game Fortune.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+<h2>Jars of War</h2>
+<p><b>Theme for Jars of War (Class Assignment)</b></p>
+<p>In this wacky mobile game, players must collect rebellious cucumbers into vinegar jars as they try to escape turning into pickles! <br> Beware, some cucumbers will fight back!  </p>
+<br>
+<audio controls>
+  <source src="JarsOfWar(ogg).ogg" type="audio/ogg">
+  <source src="JarsOfWar.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<br>
+<h2>Omikuji</h2>
+<p><b>Theme for Omikuji (Class Assignment)</b></p>
+<p>In this space shooter, players must fight enemies and use fortune cookies to get bonuses. <br> Beware, while some fortunes are goood, their counterparts can have negative effects!</p>
+<br>
+<audio controls>
+  <source src="Omikuji(ogg).ogg" type="audio/ogg">
+  <source src="Omikuji.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+
+<br>
+<h2>Penance</h2>
+<p><b>Theme for Penance (Ludum Dare 43)</b></p>
+<p>This top down fantasy action game has players defeat monsters and collect their blood in order to keep playing. <br>The blood you collect will be needed to keep playing as the clock counts down or you make purchases with a merchant. <br>Run out of blood, and you run out of time on the clock.</p>
+<br>
+<audio controls>
+  <source src="Penance(ogg).ogg" type="audio/ogg">
+  <source src="Penance.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<br>
+<h2>Planet Cannon 2</h2>
+<p><b>Theme for Planet Cannon 2</b></p>
+<p>Defend the Earth with a giant planet sized cannon!<br>Play through waves of enemies that swarm Earth and be sure to survive long enough to try out upgraded cannons!</p>
+<br>
+<audio controls>
+  <source src="PlanetCannon2(ogg).ogg" type="audio/ogg">
+  <source src="PlanetCannon2.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br><br>
+
+</body>
+</html>
