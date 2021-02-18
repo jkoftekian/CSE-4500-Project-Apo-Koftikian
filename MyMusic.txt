@@ -152,5 +152,81 @@ Your browser does not support the audio element.
 </audio>
 <br><br>
 
+<br>
+<h2>Quest for the Relic</h2>
+<p><b>Background For Calm Wooded Area</b></p>
+<p>In the introductory stage of the game, this calming music sets the tone for the quiet first town for the hero as well as the woods just outside of the town.</p>
+<br>
+<audio controls>
+  <source src="calm_woods.ogg" type="audio/ogg">
+  <source src="calm_woods.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<p><b>Waterfront Background</b></p>
+<p>This is the area just north of the hero's town, where a nearby waterfront and the calm woods meet.</p>
+<br>
+<audio controls>
+  <source src="WaterfrontBackgroundSounds.ogg" type="audio/ogg">
+  <source src="WaterfrontBackgroundSounds.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+
+<p><b>Deep Wooded Area Background</b></p>
+<p>This is for the deeper section of woods further from town.</p>
+<br>
+<audio controls>
+  <source src="WoodsBackground.ogg" type="audio/ogg">
+  <source src="WoodsBackground.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<p><b>Temple Battle Theme</b></p>
+<p>In the climactic boss battle, this battle music sets the tone for the fight that will take place in the temple at the end of the deep wooded area.</p>
+<br>
+<audio controls>
+  <source src="Temple_Battle_Theme.ogg" type="audio/ogg">
+  <source src="Temple_Battle_Theme.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+
+
+
+
+
+
+
+<br>
+<h2>Fear the Dark</h2>
+<p><b>Fear the Dark Ambient Start</b></p>
+<p>This is the title screen music</p>
+<br>
+<audio controls>
+  <source src="Fear the Dark Ambient Start.ogg" type="audio/ogg">
+  <source src="Fear the Dark Ambient Start.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<p><b>Fear the Dark Background 1</b></p>
+<p>First ambient background theme</p>
+<br>
+<audio controls>
+  <source src="Fear the Dark Ambient.ogg" type="audio/ogg">
+  <source src="Fear the Dark Ambient.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+
+<p><b>Fear the Dark Background 2</b></p>
+<p>Second ambient background theme</p>
+<br>
+<audio controls>
+  <source src="Fear the Dark Background 2.ogg" type="audio/ogg">
+  <source src="Fear the Dark Background 2.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
 </body>
 </html>
